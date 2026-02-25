@@ -76,3 +76,10 @@ Seeded demo dataset and validated analytics from the running app:
 
 ## Business Branding
 Dashboard brand name: **Swadisht**
+
+## Web App Screenshots
+### Desktop Dashboard
+![Swadisht Desktop Dashboard](assets/screenshots/dashboard-desktop.png)
+
+### Mobile Dashboard
+![Swadisht Mobile Dashboard](assets/screenshots/dashboard-mobile.png)
