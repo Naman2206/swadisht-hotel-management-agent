@@ -78,8 +78,11 @@ Seeded demo dataset and validated analytics from the running app:
 Dashboard brand name: **Swadisht**
 
 ## Web App Screenshots
-### Desktop Dashboard
-![Swadisht Desktop Dashboard](assets/screenshots/dashboard-desktop.png)
+### Desktop View 1
+![Swadisht Desktop View 1](assets/screenshots/dashboard-desktop-1.png)
 
-### Mobile Dashboard
-![Swadisht Mobile Dashboard](assets/screenshots/dashboard-mobile.png)
+### Desktop View 2
+![Swadisht Desktop View 2](assets/screenshots/dashboard-desktop-2.png)
+
+### Desktop View 3
+![Swadisht Desktop View 3](assets/screenshots/dashboard-desktop-3.png)
